@@ -12,7 +12,7 @@ It is also usefull for all kind of fast install operations that depend on condit
 ## Usage
 Load and run something
 ```
-noder -p npm:specifier -p npm:specifierOther -i specifierOther/entry-inject.js my-entry-from-unmodified-3th.js 
+nodeir -p npm:specifier -p npm:specifierOther -i specifierOther/entry-inject.js my-entry-from-unmodified-3th.js 
 ```
 
 
